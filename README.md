@@ -6,3 +6,11 @@
 7. git branch -M main (para cambiar la rama principal)
 8. git remote add origin "link del repositorio
 9. git push -u origin main
+
+
+Para clonar el repostorio hay que hacer:
+
+1. git clone "link del repositorio"
+2. luego de hacer cambios dar git add .
+3. git commit -m "mensaje"
+4. git push
